@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kodizia
+- 👋 Hi, I’m @joshua
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning the C programming language at ALX
 - 💞️ I’m looking to collaborate on C projects
