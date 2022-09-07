@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @joshua
+- 👋 Hi, I’m  Joshua
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning the C programming language at ALX
-- 💞️ I’m looking to collaborate on C projects
+- 🌱 I’m currently learning software engineering at ALX
+- 💞️ I’m looking to collaborate on projects and startups
 - 📫 How to reach me ...
 email: horpeyemijoshua@gmail.com
 twitter:@unbothered_dev
