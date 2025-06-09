@@ -1,7 +1,7 @@
 - 👋 Hi, I’m just a random person
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning software engineering at ALX
-- 💞️ I’m looking to collaborate on projects and startups
+- 👀 I’m
+- 🌱 I’m 
+- 💞️ I’m looking to check what you write on github
 - 📫 How to reach me ...
 email: 
 twitter
